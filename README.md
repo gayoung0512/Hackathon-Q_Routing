@@ -9,7 +9,8 @@ hackathon_q_routing
 
 1) contour detect & building & root nodes
 
-2) 건물과 건물 사이의 모든 경로 연결: csv
+2) connect all paths between buildings : csv
 
 3) Q-routing : 최적 경로 탐색
+
 Q-routing - 강화학습 알고리즘  & 미래 보상의 최솟값 산출
